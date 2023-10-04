@@ -6,9 +6,11 @@ A funny widget, super simple, but I could try using all my JavaScript knowledge.
 
 ## 🌟 First look 
 ![first page](./img/screen_1.png)
-when You click "okey" You'll see this
+
+when You click the "okey" button You'll see this
 ![secondt page](./img/screen_2.png)
-and here You'll see sad face
+
+and by clicking red button, You'll see sad face
 ![third page](./img/screen_3.png)
 
 ## 🌟 Technologies
